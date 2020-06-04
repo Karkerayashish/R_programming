@@ -16,3 +16,6 @@
 - Statistical inference
 - Data analysis
 - Machine learning algorithm
+
+## Great R packages for data import, wrangling and visualization
+![](https://raw.githubusercontent.com/Karkerayashish/R_programming/master/List-of-r-packages.png)
