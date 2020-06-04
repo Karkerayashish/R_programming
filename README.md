@@ -11,3 +11,8 @@
 **R** is not only entrusted by academic, but many large companies also use R programming language, including Uber, Google, Airbnb, Facebook and so on.
 
 **Data analysis** with R is done in a series of steps; programming, transforming, discovering, modeling and communicate the results
+
+## What is R used for?
+- Statistical inference
+- Data analysis
+- Machine learning algorithm
