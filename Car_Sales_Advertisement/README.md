@@ -73,7 +73,14 @@ The dataset can be accessible <a href="https://github.com/Karkerayashish/R_progr
 
 ##### Below are some of the analysis we have done using additonally created variables.
 
-![](https://github.com/Karkerayashish/R_programming/blob/master/Car_Sales_Advertisement/PPT1.png)
+![](https://raw.githubusercontent.com/Karkerayashish/R_programming/master/Car_Sales_Advertisement/PPT1.png)
+
+------------
+
+![](https://raw.githubusercontent.com/Karkerayashish/R_programming/master/Car_Sales_Advertisement/PPT2.PNG)
+
+
+
 
 
 
