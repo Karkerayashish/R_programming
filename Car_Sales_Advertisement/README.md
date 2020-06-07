@@ -66,6 +66,17 @@ The dataset can be accessible <a href="https://github.com/Karkerayashish/R_progr
 - *Question 2: What are the Highest priced cars sold over the years?*
 - *Question 3: What are the Registration of the cars over the years?*
 
+---
+# **Post Data Processing & Feature Selection**
+---
+- In this part we will create additonal variables from the existing variables and will perform some more anlysis.
+
+##### Below are some of the analysis we have done using additonally created variables.
+
+![](https://github.com/Karkerayashish/R_programming/blob/master/Car_Sales_Advertisement/PPT1.png)
+
+
+
 
 
 
