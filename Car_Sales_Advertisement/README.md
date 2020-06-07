@@ -80,6 +80,24 @@ The dataset can be accessible <a href="https://github.com/Karkerayashish/R_progr
 ![](https://raw.githubusercontent.com/Karkerayashish/R_programming/master/Car_Sales_Advertisement/PPT2.PNG)
 
 
+------------
+
+![](https://raw.githubusercontent.com/Karkerayashish/R_programming/master/Car_Sales_Advertisement/PPT3.PNG)
+
+------------
+
+![](https://raw.githubusercontent.com/Karkerayashish/R_programming/master/Car_Sales_Advertisement/PPT4.PNG)
+
+------------
+
+![](https://raw.githubusercontent.com/Karkerayashish/R_programming/master/Car_Sales_Advertisement/PPT5.PNG)
+
+------------
+
+![](https://raw.githubusercontent.com/Karkerayashish/R_programming/master/Car_Sales_Advertisement/PPT6.PNG)
+
+
+
 
 
 
