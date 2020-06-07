@@ -3,6 +3,7 @@
 ![](https://raw.githubusercontent.com/Karkerayashish/R_programming/master/Car_Sales_Advertisement/Car_Sale_Image.jpg)
 
 ------------
+**Context**
 
 In this notebook, we will make use of some famous libraries used in **R - dplyr, tidyverse, ggplot & vtree** to perform data anlysis (EDA).
 
