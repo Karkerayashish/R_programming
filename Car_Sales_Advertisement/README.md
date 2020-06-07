@@ -20,6 +20,9 @@ This dataset contains car sale advertisements which was collected for study/prac
 
 ------------
 
+The dataset can be accessible <a href="https://github.com/Karkerayashish/R_programming/blob/master/Car_Sales_Advertisement/car_sales.csv">**here**</a>.
+
+
 | Records  | Features  |
 | ------------ | ------------ |
 | 9576  | 10 |
@@ -36,5 +39,33 @@ This dataset contains car sale advertisements which was collected for study/prac
 |  year | year of production  |
 |  model |  specific model name |
 | drive  | drive type  |
+
+---
+# **Data Pre-Processing**
+---
+
+- Identification & Handling of Missing Data
+- Zero Data Identification & Handling
+- Identification & Handling of Inconsistent Data Types
+
+
+---
+# **Exploratory Data Analysis**
+---
+#### Univariate Analysis
+
+- *Question 1: What are the top selling cars?*
+- *Question 2: What are the Preferred Body Type?*
+- *Question 3: What are the Most preferred Engine Type?*
+- *Question 4: What are the Car sales over the years?*
+- *Question 1: What are the Most preferred Drive Type?*
+
+#### Bivariate Analysis
+
+- *Question 1:  How car price has varied over the years?*
+- *Question 2: What are the Highest priced cars sold over the years?*
+- *Question 3: What are the Registration of the cars over the years?*
+
+
 
 
