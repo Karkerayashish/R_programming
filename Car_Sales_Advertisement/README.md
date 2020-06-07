@@ -96,6 +96,27 @@ The dataset can be accessible <a href="https://github.com/Karkerayashish/R_progr
 
 ![](https://raw.githubusercontent.com/Karkerayashish/R_programming/master/Car_Sales_Advertisement/PPT6.PNG)
 
+------------
+
+### Conclusion
+
+------------
+
+- In this notebook, I've tried to cover basic initial steps of exploratory data analysis
+	1. Identification of variables and data types
+	2. Missing value treatment
+	3. Outlier treatment
+	4. Non-Graphical Univariate Analysis
+	5. Graphical Univariate Analysis
+	6. Bivariate Analysis
+	7. Variable transformations
+    
+
+- Also I've made use of libraies like dplyr, ggplot2 and plotly to develop better insights about the data.
+- We have seen impact of columns like mileage, year, body type and engType on the Price increase/decrease rate.
+- It is clear from the anlysis that Ukraine people prefer German made cars.
+- This analysis indicates that there is wide oppurtunites for other country car manfuturers to make their mark here like Hyundai.
+
 
 
 
